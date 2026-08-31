@@ -2397,7 +2397,6 @@ ICS频道,http://218.1.208.13:7777/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
 TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
-HOY76,http://play.wenxiang.cn/live/02267bba92f0f4b8291abefa0560664f.flv
 HOY77,http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
 HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 黄金华剧台,https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
@@ -2410,7 +2409,7 @@ HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 中天新闻,http://173.208.234.146/live/ctinews.m3u8
 中天新闻,rtmp://47.238.2.198/live/888ztxw
 中天新闻,http://111.0.115.129:8081/live/222ztxw.m3u8
-HOY76,https://cdn11.163189.xyz/163189/hoy76
+
 HOY77,https://cdn.qd.je/163189/hoy
 HOY78,https://cdn.qd.je/163189/hoy78
 凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
@@ -2457,9 +2456,8 @@ TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
 HOY78,https://fast.hidns.vip/163189/hoy78
 HOY77,https://cdn6.cc.cd/163189/hoy
 HOY77,https://fast.hidns.vip/163189/hoy
-HOY76,https://cdn11.163189.xyz/163189/hoy76
-ViuTV,https://10.fast.hidns.vip/163189/viu/
-ViuTVsix,https://10.fast.hidns.vip/163189/viu6/
+
+
 NOW新闻台,https://fast.hidns.vip/163189/now
 RTHK31,https://fast.hidns.vip/163189/rthk31
 RTHK32,https://fast.hidns.vip/163189/rthk32
