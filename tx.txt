@@ -1,6 +1,108 @@
 
 🔥央卫🔥,#genre#
-
+CCTV1,http://129.150.55.255:31905/608807420
+CCTV2,http://129.150.55.255:31905/631780532
+CCTV3,http://129.150.55.255:31905/624878271
+CCTV4,http://129.150.55.255:31905/631780421
+CCTV5,http://129.150.55.255:31905/641886683
+CCTV5+,http://129.150.55.255:31905/641886773
+CCTV6,http://129.150.55.255:31905/624878396
+CCTV7,http://129.150.55.255:31905/673168121
+CCTV8,http://129.150.55.255:31905/624878356
+CCTV9,http://129.150.55.255:31905/673168140
+CCTV10,http://129.150.55.255:31905/624878405
+CCTV11,http://129.150.55.255:31905/667987558
+CCTV12,http://129.150.55.255:31905/673168185
+CCTV13,http://129.150.55.255:31905/608807423
+CCTV14,http://129.150.55.255:31905/624878440
+CCTV15,http://129.150.55.255:31905/673168223
+CCTV17,http://129.150.55.255:31905/673168256
+CCTV4欧洲,http://129.150.55.255:31905/608807419
+CCTV4美洲,http://129.150.55.255:31905/608807416
+CGTN外语纪录,http://129.150.55.255:31905/609006487
+CGTN阿拉伯语,http://129.150.55.255:31905/609154345
+CGTN西班牙语,http://129.150.55.255:31905/609006450
+CGTN法语,http://129.150.55.255:31905/609006476
+CGTN俄语,http://129.150.55.255:31905/609006446
+老故事,http://129.150.55.255:31905/884121956
+发现之旅,http://129.150.55.255:31905/624878970
+中学生,http://129.150.55.255:31905/708869532
+CGTN,http://129.150.55.255:31905/609017205
+东方卫视,http://129.150.55.255:31905/651632648
+江苏卫视,http://129.150.55.255:31905/623899368
+广东卫视,http://129.150.55.255:31905/608831231
+北京卫视,http://129.150.55.255:31905/630287636
+辽宁卫视,http://129.150.55.255:31905/630291707
+河北卫视,http://129.150.55.255:31905/962042070
+江西卫视,http://129.150.55.255:31905/783847495
+河南卫视,http://129.150.55.255:31905/790187291
+陕西卫视,http://129.150.55.255:31905/738910838
+大湾区卫视,http://129.150.55.255:31905/608917627
+湖北卫视,http://129.150.55.255:31905/947472496
+吉林卫视,http://129.150.55.255:31905/947472500
+青海卫视,http://129.150.55.255:31905/947472506
+东南卫视,http://129.150.55.255:31905/849116810
+海南卫视,http://129.150.55.255:31905/947472502
+海峡卫视,http://129.150.55.255:31905/849119120
+中国农林卫视,http://129.150.55.255:31905/956904896
+兵团卫视,http://129.150.55.255:31905/956923145
+宁夏卫视,http://129.150.55.255:31905/738910535
+重庆卫视,http://129.150.55.255:31905/738910914
+三沙卫视,http://129.150.55.255:31905/961023778
+黑龙江卫视,http://129.150.55.255:31905/738906901
+CCTV1,http://198.204.228.26/live/cctv1hd.m3u8
+CCTV2,http://198.204.228.26/live/cctv2hd.m3u8
+CCTV3,http://198.204.228.26/live/cctv3hd.m3u8
+CCTV4,http://198.204.228.26/live/cctv4hd.m3u8
+CCTV5,http://198.204.228.26/live/cctv5hd.m3u8
+CCTV5+,http://198.204.228.26/live/cctv5p.m3u8
+CCTV6,http://198.204.228.26/live/cctv6hd.m3u8
+CCTV7,http://198.204.228.26/live/cctv7hd.m3u8
+CCTV8,http://198.204.228.26/live/cctv8hd.m3u8
+CCTV9,http://198.204.228.26/live/cctv9hd.m3u8
+CCTV10,http://198.204.228.26/live/cctv10hd.m3u8
+CCTV11,http://198.204.228.26/live/cctv11hd.m3u8
+CCTV12,http://198.204.228.26/live/cctv12hd.m3u8
+CCTV13,http://198.204.228.26/live/cctv13hd.m3u8
+CCTV14,http://198.204.228.26/live/cctv14hd.m3u8
+CCTV15,http://198.204.228.26/live/cctv15hd.m3u8
+CCTV16,http://198.204.228.26/live/cctv16hd.m3u8
+CCTV17,http://198.204.228.26/live/cctv17hd.m3u8
+CETV1,http://198.204.228.26/live/cetv1hd.m3u8
+CETV2,http://198.204.228.26/live/cetv2.m3u8
+CETV3,http://198.204.228.26/live/cetv3.m3u8
+CETV4,http://198.204.228.26/live/cetv4.m3u8
+北京卫视,http://198.204.228.26/live/bjwshd.m3u8
+湖南卫视,http://198.204.228.26/live/hnwshd.m3u8
+东方卫视,http://198.204.228.26/live/dfwshd.m3u8
+浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
+江苏卫视,http://198.204.228.26/live/jswshd.m3u8
+天津卫视,http://198.204.228.26/live/tjwshd.m3u8
+安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
+江西卫视,http://198.204.228.26/live/jxwshd.m3u8
+广西卫视,http://198.204.228.26/live/gxwshd.m3u8
+河南卫视,http://198.204.228.26/live/hawshd.m3u8
+河北卫视,http://198.204.228.26/live/hbwshd.m3u8
+吉林卫视,http://198.204.228.26/live/jlwshd.m3u8
+辽宁卫视,http://198.204.228.26/live/lnwshd.m3u8
+黑龙江卫视,http://198.204.228.26/live/hljwshd.m3u8
+四川卫视,http://198.204.228.26/live/scwshd.m3u8
+重庆卫视,http://198.204.228.26/live/cqwshd.m3u8
+东南卫视,http://198.204.228.26/live/dnwshd.m3u8
+云南卫视,http://198.204.228.26/live/ynwshd.m3u8
+贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
+陕西卫视,http://198.204.228.26/live/snwshd.m3u8
+山东卫视,http://198.204.228.26/live/sdwshd.m3u8
+山西卫视,http://198.204.228.26/live/sxwshd.m3u8
+湖北卫视,http://198.204.228.26/live/hbwshd.m3u8
+内蒙古卫视,http://198.204.228.26/live/nmgws.m3u8
+青海卫视,http://198.204.228.26/live/qhws.m3u8
+宁夏卫视,http://198.204.228.26/live/nxws.m3u8
+西藏卫视,http://198.204.228.26/live/xzws.m3u8
+三沙卫视,http://198.204.228.26/live/ssws.m3u8
+兵团卫视,http://198.204.228.26/live/btws.m3u8
+大湾区卫视,http://198.204.228.26/live/nfws.m3u8
+厦门卫视,http://198.204.228.26/live/xmws.m3u8
 CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV15,http://74.91.26.218:82/live/cctv15hd.m3u8
@@ -786,51 +888,27 @@ CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
-Plus综合,http://rihou.cc:555/tv/[Pd]Plus综合
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
-
 凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-
-凤凰中文,https://cdn6.cc.cd/163189/fhzw
-CCTV1港澳版,https://cdn6.cc.cd/163189/cctv1
-CCTV13,https://10.fast.hidns.vip/163189/cctv13/
-TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
-HOY78,https://fast.hidns.vip/163189/hoy78
-HOY77,https://cdn6.cc.cd/163189/hoy
-HOY77,https://fast.hidns.vip/163189/hoy
-HOY76,https://cdn11.163189.xyz/163189/hoy76
-ViuTV,https://10.fast.hidns.vip/163189/viu/
-ViuTVsix,https://10.fast.hidns.vip/163189/viu6/
-NOW新闻台,https://fast.hidns.vip/163189/now
-RTHK31,https://fast.hidns.vip/163189/rthk31
-RTHK32,https://fast.hidns.vip/163189/rthk32
-澳视澳门,https://cdn6.cc.cd/163189/asam
-澳视卫星,https://cdn6.cc.cd/163189/as
-澳门体育,https://cdn6.cc.cd/163189/amty
-澳门综艺,https://cdn6.cc.cd/163189/amzy
-澳门莲花,https://cdn6.cc.cd/163189/amlh
-重温经典,https://cdn6.cc.cd/163189/cwjd
-凤凰资讯,https://cdn6.cc.cd/163189/fhzx
-凤凰香港,https://cdn6.cc.cd/163189/fhhk
-TVB1,https://cdn6.cc.cd/163189/tvb1
-TVBJ1,https://cdn6.cc.cd/163189/j1
-翡翠剧集台,https://cdn6.cc.cd/163189/tvbd
-翡翠台,https://cdn6.cc.cd/163189/fct
+翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
+TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
+HOY76,http://play.wenxiang.cn/live/02267bba92f0f4b8291abefa0560664f.flv
+HOY77,http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
+HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
+黄金华剧台,https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
+黄金华剧台粤,https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
+黄金翡翠台,https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
+美亚电影台粤,https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
+美亚电影台国,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
+港台电视31,http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
+港台电视32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,http://119.32.12.73:2905/rtp/225.1.101.45:7523
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
-无线新闻台,https://cdn6.cc.cd/163189/wxxw
 广东珠江,https://2.fast.hidns.vip/163189/gdzj
 广东体育,https://2.fast.hidns.vip/163189/gdty
-八度空间,https://cdn6.cc.cd/163189/8tv
-CH5,https://cdn6.cc.cd/163189/ch5
-CH8,https://cdn6.cc.cd/163189/ch8
-CHU,https://cdn6.cc.cd/163189/chu
 龙华电影,https://8.fast.hidns.vip/163189/lhdy
 龙华经典,https://8.fast.hidns.vip/163189/lhjd
 龙华偶像,https://8.fast.hidns.vip/163189/lhox
@@ -838,45 +916,7 @@ CHU,https://cdn6.cc.cd/163189/chu
 龙华戏剧,https://8.fast.hidns.vip/163189/lhxj
 龙华洋片,https://8.fast.hidns.vip/163189/lhyp
 龙华卡通,https://8.fast.hidns.vip/163189/lhkt
-有线新闻,http://rihou.cc:555/tv/[Pd]有线新闻
-有线综合,http://rihou.cc:555/tv/[Pd]有线综合
-有线亚剧,http://rihou.cc:555/tv/[Pd]有线亚剧
-无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
-无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡翠
-无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡4K
-无线华丽,http://rihou.cc:555/tv/[Pd]无线华丽
-无线明珠,http://rihou.cc:555/tv/[Pd]无线明珠
-无线星河,http://rihou.cc:555/tv/[Pd]无线星河
-无线功夫,http://rihou.cc:555/tv/[Pd]无线功夫
-澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
-澳视卫星,http://rihou.cc:555/tv/[Pd]澳视卫星
-澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
-澳门综艺,http://rihou.cc:555/tv/[Pd]澳门综艺
-澳门莲花,http://rihou.cc:555/tv/[Pd]澳门莲花
-央视综合,http://rihou.cc:555/tv/[Pd]央视综合
-重温经典,http://rihou.cc:555/tv/[Pd]重温经典
-龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
-龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
-龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
-龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
-龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
-CHU综合,http://rihou.cc:555/tv/[Pd]CHU综合
-CH5综合,http://rihou.cc:555/tv/[Pd]CH5综合
-CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
-八度空间,http://rihou.cc:555/tv/[Pd]八度空间
 金光布袋戏,https://cdn3.indevs.in/stream/live/jgbdx/
-华丽翡翠台,https://cdn6.cc.cd/163189/hlfct
-TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
-TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
-无线新闻台,https://cdn6.cc.cd/163189/wxxwt
-TVB星河,https://cdn6.cc.cd/163189/tvbxh
-海峡卫视,https://10.fast.hidns.vip/163189/hxws/
-海峡卫视,https://168.sryze.cc/163189/hxws
-TVB星河,https://10.fast.hidns.vip/163189/xinghe/
-天映新加坡,https://10.fast.hidns.vip/163189/typd/
-天映经典,https://10.fast.hidns.vip/163189/ccm/
-华丽翡翠台,https://cdn3.indevs.in/stream/live/hlt/
-华丽翡翠台,https://cdn6.cc.cd/163189/jade
 华丽翡翠台,https://cdn3.indevs.in/stream/live/jade/
 Astro AOD,https://cdn3.indevs.in/stream/live/aod/
 Astro AEC,https://cdn3.indevs.in/stream/live/aec/
@@ -1517,50 +1557,7 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 松3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 香蕉,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
 
-Emma White,http://conecdg.me:80/Andrielly.Silva/Br131221/3932765
-Eva Elfie,http://conecdg.me:80/Andrielly.Silva/Br131221/3932766
-MIA KHALIFA,http://conecdg.me:80/Andrielly.Silva/Br131221/3932767
-Sammy Corazon,http://conecdg.me:80/Andrielly.Silva/Br131221/3932768
-Reislin,http://conecdg.me:80/Andrielly.Silva/Br131221/3932769
-SQUIRT,http://conecdg.me:80/Andrielly.Silva/Br131221/3932770
-SweetieFox,http://conecdg.me:80/Andrielly.Silva/Br131221/3932771
-Lexy Lore,http://conecdg.me:80/Andrielly.Silva/Br131221/3932772
-BUSTY,http://conecdg.me:80/Andrielly.Silva/Br131221/3933219
-WICKED,http://conecdg.me:80/Andrielly.Silva/Br131221/3933281
-21 SEXTURY,http://conecdg.me:80/Andrielly.Silva/Br131221/3933284
-Andressa Urach,http://conecdg.me:80/Andrielly.Silva/Br131221/3933285
-GANGBANG,http://conecdg.me:80/Andrielly.Silva/Br131221/3933286
-LEGALPORNO,http://conecdg.me:80/Andrielly.Silva/Br131221/3933287
-LEGALPORNO 2,http://conecdg.me:80/Andrielly.Silva/Br131221/3933288
-Kelly Aleman,http://conecdg.me:80/Andrielly.Silva/Br131221/3933289
-Punheta guiada,http://conecdg.me:80/Andrielly.Silva/Br131221/3933290
-Brasileiras,http://conecdg.me:80/Andrielly.Silva/Br131221/3933412
-BDSM BOXXX,http://conecdg.me:80/Andrielly.Silva/Br131221/3935065
-CLASSICOS ITALIANOS,http://conecdg.me:80/Andrielly.Silva/Br131221/3935066
-DORCEL,http://conecdg.me:80/Andrielly.Silva/Br131221/3935067
-DORCEL 2,http://conecdg.me:80/Andrielly.Silva/Br131221/3935068
-FILTHY KINGS,http://conecdg.me:80/Andrielly.Silva/Br131221/3935069
-REALITY KINGS,http://conecdg.me:80/Andrielly.Silva/Br131221/3935070
-TEAM SKEET,http://conecdg.me:80/Andrielly.Silva/Br131221/3935071
-SIS LOVES ME,http://conecdg.me:80/Andrielly.Silva/Br131221/3935072
-ORGIAS,http://conecdg.me:80/Andrielly.Silva/Br131221/3935073
-BANGBROS,http://conecdg.me:80/Andrielly.Silva/Br131221/3935089
-BRAZZERS 1,http://conecdg.me:80/Andrielly.Silva/Br131221/3954314
-BRAZZERS 2,http://conecdg.me:80/Andrielly.Silva/Br131221/3954317
-BRAZZERS 3,http://conecdg.me:80/Andrielly.Silva/Br131221/3954316
-BRAZZERS 4,http://conecdg.me:80/Andrielly.Silva/Br131221/3954315
-BRAZZERS 5,http://conecdg.me:80/Andrielly.Silva/Br131221/3959204
-Brasileirinhas,http://conecdg.me:80/Andrielly.Silva/Br131221/3959203
-Fake Hostel,http://conecdg.me:80/Andrielly.Silva/Br131221/3965386
-Fake Hub,http://conecdg.me:80/Andrielly.Silva/Br131221/3965387
-Fake Taxi,http://conecdg.me:80/Andrielly.Silva/Br131221/3965388
-Public Agent,http://conecdg.me:80/Andrielly.Silva/Br131221/3965389
-Fake Hospital,http://conecdg.me:80/Andrielly.Silva/Br131221/3965390
-Fake Driving School,http://conecdg.me:80/Andrielly.Silva/Br131221/3965391
-Fake Agent,http://conecdg.me:80/Andrielly.Silva/Br131221/3965463
-LETSDOEIT,http://conecdg.me:80/Andrielly.Silva/Br131221/3965464
 
-nalfnf,https://v2.catcast.tv/content/40381/index.m3u8
 Anal,http://cdn.adultiptv.net/anal.m3u8
 Arab Girls,http://live.mycamtv.com/arab.m3u8
 Asian Girls,http://live.mycamtv.com/asian.m3u8
